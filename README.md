@@ -1,6 +1,7 @@
 # Thalassemia.WMU
 Thalassemia team of WenzhouMedicalUniversity
 
+[中文版](https://github.com/ThalassemiaTeamofWMU/Thalassemia.WMU/blob/main/README_CN.md)
 ## What is Thalassemia?
 
 Currently, thalassaemia has become a worldwide public health problem.
