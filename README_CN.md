@@ -1,5 +1,7 @@
 # Thalassemia.WMU
 Thalassemia team of WenzhouMedicalUniversity温州医科大学,地中海性贫血团队
+
+[English version](https://github.com/ThalassemiaTeamofWMU/Thalassemia.WMU/blob/main/README.md)
 ## 什么是地中海性贫血?
 
 地中海贫血症是由于红细胞内的血红蛋白数量和质量的异常造成红细胞寿命缩短的一种先天性贫血,重症患者往往需要依靠昂贵的输血和排铁治疗.
