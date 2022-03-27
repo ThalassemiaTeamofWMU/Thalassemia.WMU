@@ -1,5 +1,5 @@
 # Thalassemia.WMU
-Thalassemia team of WenzhouMedicalUniversity温州医科大学,地中海性贫血团队
+温州医科大学,地中海性贫血团队
 
 [English version](https://github.com/ThalassemiaTeamofWMU/Thalassemia.WMU/blob/main/README.md)
 ## 什么是地中海性贫血?
